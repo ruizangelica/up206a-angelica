@@ -1,6 +1,7 @@
 # Week One Reading Assignment
 #### *Green, but not just? Rethinking environmental justice indicators in shrinking cities*
 #### By Schwarz, Berland, & Hermann (2018)
+###### https://www.sciencedirect.com/science/article/abs/pii/S2210670717308569
 
 In this article the authors discuss the ways in which more vegetation in an area is usually seen as a positive thing: more "greenspace." However, with the increase of vacancies in urban areas there is also an increase in unkept vegetation. As a result, when researchers or policy makers utlize spatial tools that show the greenspace in the city, it may look as more equitable with regards to greenspace despite the economic blight and poverty in the area. The researchers used the city of Toledo for their research due to the fact that it's a declining city in the northwest. The results of the study confirmed their hypothesis that increase vegetation should not be used as a tool for environmental justice policies. In doing so, funding and resources may not be directed towards the communities that need them the most. 
 
