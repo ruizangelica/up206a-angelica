@@ -7,7 +7,7 @@ Although Los Angeles, CA is often seen as the center for transportation of goods
 As a result of the multifaceted pollution caused by the warehouse in the Inland Empire, for my research project I will examine the extent to which the warehouses impact the health of the residents living in the area. Through spatial data analysis and mapping, I hope to show how the density of warehouse in the Inland Empire, coupled with the pollution burden of the residents in the area, is of concern and merits action from local and state officials. 
 
 #### _**Research Question:**_
-What are the potential public health and environmental impacts of warehouses in the Inland Empire? 
+- What are the potential public health and environmental impacts of warehouses in the Inland Empire? 
 
 ### **IMPORTANCE**
 Despite the significant reduction in air quality in California in the past few decades, the reduction has not been equal across all counties. Despite efforts to halt expansion of warehouses from local organizations, such as Center for Community Action and Environmental Justice (CCAEJ) and the People's Collective for Environmental Justice (PC4EJ), local officials continue to push toward what they view as “economic growth.” Various studies have shown the significant negative impact of chronic exposure to air pollution and diesel contaminants. Regardless of the studies, not enough research or analysis has been conducted on this issue and its public health effects. Therefore, it is crucial that further exploration is conducted in order to support community efforts and hold local officials accountable to the health and well-being of their constituents. 
