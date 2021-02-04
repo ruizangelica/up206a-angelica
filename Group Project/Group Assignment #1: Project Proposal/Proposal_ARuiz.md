@@ -35,6 +35,8 @@ The data that I hope to incorporate into my project includes those which will pr
 
 *Visual Methodology*
 
+![Methodology Image](https://github.com/ruizangelica/up206a-angelica/blob/main/Group%20Project/Group%20Assignment%20%231:%20Project%20Proposal/UP%20206A--Methods%20Flowchart_ARuiz.png)
+
 
 ### **INSIGHTS**
 Through this project, I hope to offer additional evidence regarding the health impacts of the high density of warehouses in the Inland Empire. In order to ensure that the community’s concerns are addressed, I hope to work with CCAEJ and PC4EJ to tailor the final product into a tool they can use for their advocacy. I hope that this project deliverable will be useful to community leaders in advocating for environmental justice and ensuring that the health of the residents in the region are prioritized. 
