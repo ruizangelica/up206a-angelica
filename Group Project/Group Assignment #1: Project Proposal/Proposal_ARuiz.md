@@ -35,7 +35,7 @@ The data that I hope to incorporate into my project includes those which will pr
 
 *Visual Methodology*
 
-![Methodology Image](https://github.com/ruizangelica/up206a-angelica/blob/main/Group%20Project/Group%20Assignment%20%231:%20Project%20Proposal/UP%20206A--Methods%20Flowchart_ARuiz.png)
+![Methodology Image](https://github.com/ruizangelica/up206a-angelica/blob/main/Group%20Project/Group%20Assignment%20%231:%20Project%20Proposal/Methods%20Flowchart_ARuiz.png)
 
 
 ### **INSIGHTS**
