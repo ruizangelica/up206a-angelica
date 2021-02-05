@@ -1,5 +1,5 @@
 # Status Report 
-### Title: America’s Shopping Cart: The Public Health Impacts of Warehouse Infrastructure in the Inland Empire
+### Title-- America’s Shopping Cart: The Public Health Impacts of Warehouse Infrastructure in the Inland Empire
 ####  UP 206A | Winter 2021 | By: Angelica Ruiz
 
 **Proposal**
