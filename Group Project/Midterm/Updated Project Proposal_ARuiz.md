@@ -20,7 +20,7 @@ The spatial scope of the project will be the counties of Riverside and San Berna
 
 *Data Sources*
 
-The data that I've been using and hope to continue using are the same one from my original proposal, with the except of the county map. I want to ensure that the spatial story I tell with the data is reflective of the lived experiences of the residents impacted. Thus far, I have identified the following data sources:
+The data that I've been using and hope to continue using are the same one from my original proposal, with the excepttion of the county map. I want to ensure that the spatial story I tell with the data is reflective of the lived experiences of the residents impacted. Thus far, I have identified the following data sources:
 
 - Base map data: The land use dataset will be utilized to show the designated land use, as defined by the county. There are specific codes used to identify warehouses, which I’ll filter to focus on the warehouse codes. 
   - SCAG—Land use
